@@ -6,6 +6,8 @@ An interactive **Machine Learning web application** built with **Streamlit** tha
 This project uses **Logistic Regression** trained on the **Framingham Heart Study dataset** to estimate heart disease risk.
 
 ---
+#Live Demo :
+https://heart-disease-prediction-system-sk6yquhdii9jegotynh4pm.streamlit.app/
 
 # 📊 Project Overview
 
